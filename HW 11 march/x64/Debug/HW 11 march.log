@@ -1,0 +1,6 @@
+﻿  HW 11 march.cpp
+C:\Users\ag629\source\repos\HW 11 march\HW 11 march\HW 11 march.cpp(7,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\ag629\source\repos\HW 11 march\HW 11 march\HW 11 march.cpp(9,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ag629\source\repos\HW 11 march\HW 11 march\HW 11 march.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\ag629\source\repos\HW 11 march\HW 11 march\HW 11 march.cpp(9,13): error C2065: ax: необъявленный идентификатор
+C:\Users\ag629\source\repos\HW 11 march\HW 11 march\HW 11 march.cpp(10,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
